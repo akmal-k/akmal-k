@@ -10,7 +10,7 @@ I'm Akmal, a Full Stack Web and App Developer. I like learning new programming l
 
 #### About me
 
-- 💼 I’m currently working at Outliers
+- 💼 I’m currently working at Goodoc
 - 🤔 I’m working on new project.
 - 📫 How to reach me: akmalkuchkarov@inbox.ru.
 - 😄 Google it.
