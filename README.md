@@ -22,7 +22,7 @@ I'm Akmal, a Full Stack Web and App Developer. I like learning new programming l
 
 #### Bizness
 
-- :paperclip: [My Resume/CV](https://github.com/akmal-k/akmal-k/blob/master/resume/Resume_.pdf)
+- :paperclip: [My Resume/CV](https://github.com/akmal-k/akmal-k/blob/master/resume/My_Resume.pdf)
 - :email: akmalkuchkarov@inbox.ru
 
 #### Github Stats
